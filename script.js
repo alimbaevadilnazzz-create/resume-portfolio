@@ -462,7 +462,7 @@ const jobTranslations = {
             loc: "Алматы, Казахстан",
             date: "Январь 2026 - Наст. время",
             duties: [
-                "Лидирую 2 кросс-функциональные Scrum-команды в розничном и бизнес CVM стримах, обеспечивая доставку продуктов.",
+                "Лидирую 3 кросс-функциональные Scrum-команды в розничном CVM, бизнес CVM и ПостКредит стримах, обеспечивая доставку продуктов.",
                 "Фасилитирую все Scrum-события, устраняю блокеры и повышаю перформанс команд по метрикам.",
                 "Разработала и оптимизировала процессы Scrum в командах, повысив стабильность и скорость поставок релизов.",
                 "Стандартизировала и объединила Jira-процессы в департаменте, повысив прозрачность.",
@@ -541,7 +541,7 @@ const jobTranslations = {
             loc: "Almaty, Kazakhstan",
             date: "January 2026 - Present",
             duties: [
-                "Lead 2 cross-functional Scrum teams in Retail and Business CVM streams, ensuring product delivery.",
+                "Lead 3 cross-functional Scrum teams in Retail CVM, Business CVM, and Post-Credit streams, ensuring product delivery.",
                 "Facilitate all Scrum events, resolve impediments, and improve team performance metrics.",
                 "Developed and optimized Scrum processes within teams, increasing stability and release delivery speed.",
                 "Standardized and unified Jira workflows in the department, improving transparency.",
@@ -620,7 +620,7 @@ const jobTranslations = {
             loc: "Алматы, Қазақстан",
             date: "Қаңтар 2026 - қазіргі уақыт",
             duties: [
-                "Өнімді жеткізуді қамтамасыз ете отырып, бөлшек және бизнес CVM стримдеріндегі 2 кросс-функционалды Scrum командасын басқарамын.",
+                "Өнімді жеткізуді қамтамасыз ете отырып, бөлшек CVM, бизнес CVM және ПостКредит стримдеріндегі 3 кросс-функционалды Scrum командасын басқарамын.",
                 "Барлық Scrum оқиғаларын фасилитациялаймын, кедергілерді жоямын және командалардың тиімділіген метрикалар бойынша арттырамын.",
                 "Релиздерді жеткізудің тұрақтылығы мен жылдамдығын арттыра отырып, командалардағы Scrum процестерін әзірледім және оңтайландырдым.",
                 "Департаменттегі Jira процестерін стандарттадым және біріктірдім, бұл ашықтықты арттырды.",
