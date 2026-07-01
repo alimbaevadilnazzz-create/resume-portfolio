@@ -345,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const translations = {
     ru: {
-        sidebar_title: "scrum master / PM",
+        sidebar_title: "Scrum Master | Product & Project Manager",
         sidebar_role_sm: "Sr. Scrum Master",
         sidebar_comp_sm: "Alatau City Bank (Jusan)",
         sidebar_date_sm: "2026 - наст. время",
@@ -363,7 +363,7 @@ const translations = {
         sidebar_date_wt: "2024",
         status_text: "☀️ KZ, Алматы (UTC+5)",
         hero_greeting: "hola!",
-        hero_text: "Я — <strong class=\"highlight-text\">Дильназ</strong>, Scrum-мастер с продуктовым мышлением и техническим бэкграундом в области информационных систем. Помогаю командам создавать цифровые продукты, выстраивая эффективные процессы и синхронизируя бизнес, разработку и дизайн.",
+        hero_text: "Я — <strong class=\"highlight-text\">Дильназ</strong>, Scrum-мастер с продуктовым и проектным мышлением. Помогаю превращать идеи в цифровые продукты, объединяя бизнес, разработку и дизайн. Опираясь на сильную техническую базу в области информационных систем, я выстраиваю эффективные процессы, руковожу кросс-функциональными командами и управляю поставкой продуктов от концепта до запуска. Увлекаюсь искусственным интеллектом, автоматизацией и созданием решений, которые решают реальные проблемы пользователей.",
         btn_tg: "Перейти в tg",
         btn_about: "Обо мне",
         warrior_title: "Путь воина ⚔️",
@@ -381,7 +381,7 @@ const translations = {
         footer_text: "&copy; 2026 Dilnaz Alimbayeva. Сделано с любовью 🌸"
     },
     en: {
-        sidebar_title: "Scrum Master / PM",
+        sidebar_title: "Scrum Master | Product & Project Manager",
         sidebar_role_sm: "Sr. Scrum Master",
         sidebar_comp_sm: "Alatau City Bank (Jusan)",
         sidebar_date_sm: "2026 - Present",
@@ -399,7 +399,7 @@ const translations = {
         sidebar_date_wt: "2024",
         status_text: "☀️ KZ, Almaty (UTC+5)",
         hero_greeting: "hello!",
-        hero_text: "I’m <strong class=\"highlight-text\">Dilnaz</strong>, a Scrum Master with a product mindset and a technical background in Information Systems. I help teams build digital products by establishing efficient processes and aligning business, engineering, and design.",
+        hero_text: "I’m <strong class=\"highlight-text\">Dilnaz</strong>, a Scrum Master with a Product & Project Management mindset. I help turn ideas into digital products by aligning business, engineering, and design. With a strong technical background in Information Systems, I build efficient processes, lead cross-functional teams, and drive product delivery from concept to launch. Passionate about AI, automation, and creating products that solve real user problems.",
         btn_tg: "Go to Telegram",
         btn_about: "About me",
         warrior_title: "Warrior's Path ⚔️",
@@ -417,7 +417,7 @@ const translations = {
         footer_text: "&copy; 2026 Dilnaz Alimbayeva. Made with love 🌸"
     },
     kk: {
-        sidebar_title: "Scrum Master / PM",
+        sidebar_title: "Scrum Master | Product & Project Manager",
         sidebar_role_sm: "Аға Scrum-мастер",
         sidebar_comp_sm: "Alatau City Bank (Jusan)",
         sidebar_date_sm: "2026 - қазіргі уақыт",
@@ -435,7 +435,7 @@ const translations = {
         sidebar_date_wt: "2024",
         status_text: "☀️ ҚР, Алматы (UTC+5)",
         hero_greeting: "сәлем!",
-        hero_text: "Мен — ақпараттық жүйелер саласында техникалық базасы және өнімдік ойлау қабілеті бар Scrum-мастер <strong class=\"highlight-text\">Дильназбын</strong>. Тиімді процестерді құру және бизнес, әзірлеу мен дизайнды үйлестіру арқылы командаларға цифрлық өнімдер жасауға көмектесемін.",
+        hero_text: "Мен — өнімдік және жобалық ойлау қабілеті бар Scrum-мастер <strong class=\"highlight-text\">Дильназбын</strong>. Бизнес, әзірлеу және дизайнды үйлестіре отырып, идеяларды цифрлық өнімдерге айналдыруға көмектесемін. Ақпараттық жүйелер саласындағы мықты техникалық базаға сүйене отырып, мен тиімді процестерді құрамын, кросс-функционалды командаларды басқарамын және өнімді тұжырымдамадан бастап іске қосуға дейін жеткіземін. Жасанды интеллектке, автоматтандыруға және пайдаланушылардың нақты мәселелерін шешетін өнімдер жасауға қызығамын.",
         btn_tg: "Telegram-ға өту",
         btn_about: "Мен туралы",
         warrior_title: "Жауынгер жолы ⚔️",
