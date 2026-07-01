@@ -261,7 +261,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     dutiesList.innerHTML = '';
                     jobData.duties.forEach(duty => {
                         const li = document.createElement('li');
-                        li.textContent = duty;
+                        li.innerHTML = duty;
                         dutiesList.appendChild(li);
                     });
                 }
@@ -467,7 +467,7 @@ const jobTranslations = {
                 "Разработала и оптимизировала процессы Scrum в командах, повысив стабильность и скорость поставок релизов.",
                 "Стандартизировала и объединила Jira-процессы в департаменте, повысив прозрачность.",
                 "Внедрила систему метрик для отслеживания эффективности (cycle time, lead time).",
-                "Разработала и запустила двух Telegram-ботов (<strong>@feedback_planning_bot</strong> и <strong>@scrum_masters_assistant_bot</strong>), автоматизировав процессы сбора обратной связи, проведение Health Check команд и создав интерактивного ассистента Scrum-мастера."
+                "Разработала и запустила двух Telegram-ботов (<a href=\"https://t.me/feedback_planning_bot\" target=\"_blank\" class=\"job-link\">@feedback_planning_bot</a> и <a href=\"https://t.me/scrum_masters_assistant_bot\" target=\"_blank\" class=\"job-link\">@scrum_masters_assistant_bot</a>), автоматизировав процессы сбора обратной связи, проведение Health Check команд и создав интерактивного ассистента Scrum-мастера."
             ]
         },
         jaryqlab: {
@@ -547,7 +547,7 @@ const jobTranslations = {
                 "Developed and optimized Scrum processes within teams, increasing stability and release delivery speed.",
                 "Standardized and unified Jira workflows in the department, improving transparency.",
                 "Implemented a metrics system to track efficiency (cycle time, lead time).",
-                "Developed and launched two Telegram bots (<strong>@feedback_planning_bot</strong> and <strong>@scrum_masters_assistant_bot</strong>), automating team feedback collection, health checks, and creating a Scrum Master virtual assistant."
+                "Developed and launched two Telegram bots (<a href=\"https://t.me/feedback_planning_bot\" target=\"_blank\" class=\"job-link\">@feedback_planning_bot</a> and <a href=\"https://t.me/scrum_masters_assistant_bot\" target=\"_blank\" class=\"job-link\">@scrum_masters_assistant_bot</a>), automating team feedback collection, health checks, and creating a Scrum Master virtual assistant."
             ]
         },
         jaryqlab: {
@@ -627,7 +627,7 @@ const jobTranslations = {
                 "Релиздерді жеткізудің тұрақтылығы мен жылдамдығын арттыра отырып, командалардағы Scrum процестерін әзірледім және оңтайландырдым.",
                 "Департаменттегі Jira процестерін стандарттадым және біріктірдім, бұл ашықтықты арттырды.",
                 "Тиімділікті бақылауға арналған метрикалар жүйесін (cycle time, lead time) енгіздім.",
-                "Командалардан кері байланыс жинау, Health Check жүргізу процестерін автоматтандыру және Scrum-мастердің интерактивті ассистентін жасау үшін екі Telegram-бот (<strong>@feedback_planning_bot</strong> және <strong>@scrum_masters_assistant_bot</strong>) әзірлеп, іске қостым."
+                "Командалардан кері байланыс жинау, Health Check жүргізу процестерін автоматтандыру және Scrum-мастердің интерактивті ассистентін жасау үшін екі Telegram-бот (<a href=\"https://t.me/feedback_planning_bot\" target=\"_blank\" class=\"job-link\">@feedback_planning_bot</a> және <a href=\"https://t.me/scrum_masters_assistant_bot\" target=\"_blank\" class=\"job-link\">@scrum_masters_assistant_bot</a>) әзірлеп, іске қостым."
             ]
         },
         jaryqlab: {
