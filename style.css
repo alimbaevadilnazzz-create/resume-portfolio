@@ -1263,6 +1263,12 @@ img {
     animation: floatSlow 9s infinite ease-in-out;
 }
 
+.white-red g circle {
+    stroke: var(--text-color);
+    stroke-width: 1px;
+    stroke-opacity: 0.15;
+}
+
 /* Blue Daisy (Middle Left near Jusan) */
 .blue-white {
     top: 38%;
